@@ -17,3 +17,12 @@ A MIDI CC device developed with a Pro Micro.
 
 ---
 
+### The soldered board:
+
+![Top View](/img/top.jpg)
+
+![Side View](/img/side.jpg)
+
+### Schematic:
+
+![Schematic](/img/schematic.png)
