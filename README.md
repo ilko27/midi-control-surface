@@ -1,6 +1,6 @@
 A MIDI CC device made with a Pro Micro. The Pro Micro sends MIDI CC signals to the PC via a USB cable. It is used to control DAW or VST parameters. It has 14 potentiometers so it can control up to 14 parameters.
 
-
+Code is located in /src folder
 
 ---
 
